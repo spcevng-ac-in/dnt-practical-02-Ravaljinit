@@ -1,0 +1,8 @@
+C:\Users\jsrav\source\repos\practical_2\practical_2\obj\Debug\practical_2.csproj.AssemblyReference.cache
+C:\Users\jsrav\source\repos\practical_2\practical_2\obj\Debug\practical_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jsrav\source\repos\practical_2\practical_2\obj\Debug\practical_2.csproj.CoreCompileInputs.cache
+C:\Users\jsrav\source\repos\practical_2\practical_2\bin\Debug\practical_2.exe.config
+C:\Users\jsrav\source\repos\practical_2\practical_2\bin\Debug\practical_2.exe
+C:\Users\jsrav\source\repos\practical_2\practical_2\bin\Debug\practical_2.pdb
+C:\Users\jsrav\source\repos\practical_2\practical_2\obj\Debug\practical_2.exe
+C:\Users\jsrav\source\repos\practical_2\practical_2\obj\Debug\practical_2.pdb
